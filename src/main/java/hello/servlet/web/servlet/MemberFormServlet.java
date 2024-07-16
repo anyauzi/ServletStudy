@@ -36,6 +36,5 @@ public class MemberFormServlet extends HttpServlet {
                 "</form>\n" +
                 "</body>\n" +
                 "</html>\n");
-
     }
 }
